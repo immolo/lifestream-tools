@@ -1,0 +1,4 @@
+# Lifestream uses lightdm with an autologin to start.
+CHECKVT=7
+
+DISPLAYMANAGER="lightdm"
